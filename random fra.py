@@ -15,7 +15,7 @@ def getAnswer(answerNumber):
         return 'mandare tanti bacetti pt 2'
 
 # Invece di window.title(), usiamo st.title()
-st.title('random relax')
+st.title('random ')
 
 # Invece di tk.Button, usiamo st.button all'interno di un "if"
 # Quando il tuo amico clicca, il programma entra in questo blocco di codice
