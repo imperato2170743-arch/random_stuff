@@ -4,15 +4,15 @@ import streamlit as st
 # La tua funzione originale rimane identica
 def getAnswer(answerNumber):
     if answerNumber == 1:
-        return 'program'
+        return 'mandare bacetti a fra'
     elif answerNumber == 2:
-        return 'crochet'
+        return 'abbraccio virtuale'
     elif answerNumber == 3:
-        return 'watch movie'
+        return 'how i met your mother'
     elif answerNumber == 4:
-        return 'read'
+        return 'preparare biscotti'
     elif answerNumber == 5:
-        return 'watch a video'
+        return 'mandare tanti bacetti pt 2'
 
 # Invece di window.title(), usiamo st.title()
 st.title('random relax')
