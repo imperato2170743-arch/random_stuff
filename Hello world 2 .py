@@ -11,6 +11,6 @@ if name == 'Ruben':
 else :
     st.write(f'access denied')
 
-if st.Button('tired'):
+if st.button('tired'):
     st.balloons()
 
