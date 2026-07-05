@@ -5,9 +5,9 @@ st.title("Hello world")
 name = st.text_input("Hello friend what's your name?")
 
 
-if name == 'Ruben':
+#if name == 'Ruben':
    st.write(f'Nice to meet you, {name}!')
-else :
+#else :
    st.write(f'access denied')
 
 happy_click = False
