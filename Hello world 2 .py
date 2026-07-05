@@ -6,9 +6,9 @@ name = st.text_input("Hello friend what's your name?")
 
 
 #if name == 'Ruben':
-   st.write(f'Nice to meet you, {name}!')
+st.write(f'Nice to meet you, {name}!')
 #else :
-   st.write(f'access denied')
+   #st.write(f'access denied')
 
 happy_click = False
 fine_click = False
