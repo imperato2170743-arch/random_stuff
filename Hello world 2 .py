@@ -22,7 +22,7 @@ with col1:
    if st.button('fine'):
     fine_click = True
 with col2:
-   if st.button('sad')
+   if st.button('sad'):
     sad_click =  True
    if st.button('tired'):
     tired_click = True
