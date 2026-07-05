@@ -35,4 +35,4 @@ if fine_click == True :
 if sad_click ==  True:
     st.image("https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a25oYzl3Z3BxNzJpaWh0MTRyd3R4OXQ4bzI5NHlwMzByejRyOTY1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Yle9Yz9izeVRyiwavn/giphy.gif",width=500)
 if tired_click == True:
-    st.image("https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnQxNzcyNzNibWFpOWY5d3RoNXluMmo4enk1Znc1dmkzenR3cHl5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A8ReUjJdMCNOM/giphy.gif"width=500)
+    st.image("https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnQxNzcyNzNibWFpOWY5d3RoNXluMmo4enk1Znc1dmkzenR3cHl5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A8ReUjJdMCNOM/giphy.gif",width=500)
